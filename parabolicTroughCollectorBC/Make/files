@@ -1,0 +1,3 @@
+parabolicTroughCollectorBC.C
+
+LIB = $(FOAM_USER_LIBBIN)/libparabolicTroughCollectorBC
