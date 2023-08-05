@@ -3,10 +3,10 @@ This is a boundary condition for wall of parabolic trough collector written base
 
 
 ## Mathematical Relationships
-$$ {\nabla T} = {1 \over \kappa} $$
+$$ {\nabla T} = {1 \over \kappa} \left({{q''_a} - } \right) $$
 
 
-$\left({{q''_a} - } \right)$
+$$
 
 $$ {Q_{a-g} \over A_a} $$
 
