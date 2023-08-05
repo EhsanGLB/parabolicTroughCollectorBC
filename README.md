@@ -9,9 +9,13 @@ $$ {{q''}_a} = \tau_g \alpha_a I_b LCR(\theta)$$
 
 $$ {Q_{ag}} = $$
 
+$$ {Q_{go}} = h_{go} A_{go} \left({T_{go} - T_a}\right) + \varepsilon_g \sigma_{sb} A_{go} \left({{T_{go}}^4 - {T_a}^4}\right) $$
+
 $$ {A_{go}} = L \pi \ d_{go}$$
 
-$$ h_{go} = {V_a}^{0.58} {d_{go}}^{-0.45} $$
+$$ h_{go} = {V_a}^{0.58} \ {d_{go}}^{-0.45} $$
+
+$$ {T_{sky}} = 0.0522 {T_a}^{1.5} $$
 
 
 $\alpha_a$
@@ -28,8 +32,9 @@ $d_{ao}$
 $d_{gi}$
 $d_{go}$
 $\kappa$
-${q''}_a$
+$q"_a$
 $A_a$
+$A_{go}$
 $\sigma_{sb}$
 $$
 
