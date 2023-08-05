@@ -7,7 +7,7 @@ $$ {\nabla T} = {1 \over \kappa} \left({ q_a - {Q_{ag} \over A_a} } \right) $$
 
 $$ {{q''}_a} = \tau_g \alpha_a I_b LCR(\theta)$$
 
-$$ {Q_{ag}} = $$
+$$ {Q_{ag}} = {\sigma_{sb} A_{ao} \left({{T_{to}}^4 - {T_{gi}}^4}\right} \over { {1 \over \varepsilon_a} + {d_{ao} \over d_{gi} } { {1 - \varepsilon_g} \over \varepsilon_g} } $$
 
 $$ {Q_{go}} = h_{go} A_{go} \left({T_{go} - T_a}\right) + \varepsilon_g \sigma_{sb} A_{go} \left({{T_{go}}^4 - {T_a}^4}\right) $$
 
@@ -35,6 +35,7 @@ $\kappa$
 $q"_a$
 $A_a$
 $A_{go}$
+$A_{ao}$
 $\sigma_{sb}$
 $$
 
