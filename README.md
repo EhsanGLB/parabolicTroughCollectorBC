@@ -19,6 +19,10 @@ $d_{ao}$
 $d_{gi}$
 $d_{go}$
 $\kappa$
+$q''_a$
+$$
+$$
+$$
 
 
 ## Installation
