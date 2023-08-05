@@ -11,7 +11,7 @@ $$ {Q_{ag}} = {{ \sigma_{sb} A_{ao} \left( { {T_{to}}^4 - {T_{gi}}^4 }\right) } 
 
 $$ {Q_{go}} = h_{go} A_{go} \left({T_{go} - T_a}\right) + \varepsilon_g \sigma_{sb} A_{go} \left({{T_{go}}^4 - {T_a}^4}\right) $$
 
-$$ {A_{go}} = L \pi \ d_{go}$$
+$$ {A_{go}} = L \pi d_{go}$$
 
 $$ h_{go} = {V_a}^{0.58} \ {d_{go}}^{-0.45} $$
 
