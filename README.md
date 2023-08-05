@@ -12,8 +12,8 @@ $\alpha_g$
 $\varepsilon_g$
 $\tau_g$
 $I_b$
-$LCR(\teta)$
-$\dot{Q}_{a-g}$
+$LCR(\theta)$
+$Q_{a-g}$
 $d_{ai}$
 $d_{ao}$
 $d_{gi}$
