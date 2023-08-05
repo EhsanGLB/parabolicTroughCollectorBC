@@ -3,7 +3,7 @@ This is a boundary condition for wall of parabolic trough collector written base
 
 
 ## Mathematical Relationships
-$$ {\nabla T} = {1 \over \kappa} \left({ q_a - {Q_{ag} \over A_a} } \right) $$
+$$ {\nabla T} = {1 \over \kappa_f} \left({ q_a - {Q_{ag} \over A_a} } \right) $$
 
 $$ {{q''}_a} = \tau_g \alpha_a I_b \ LCR(\theta)$$
 
@@ -21,26 +21,7 @@ $$ {Q_{g}} = \alpha_g I_b \overline{\rm LCR} $$
 
 $$ {Q_{ag}} = {Q_{g}} - {Q_{go}} $$
 
-$\alpha_a$
-$\varepsilon_a$
-$\tau_a$
-$\alpha_g$
-$\varepsilon_g$
-$\tau_g$
-$I_b$
-$LCR(\theta)$
-$Q_ag$
-$d_{ai}$
-$d_{ao}$
-$d_{gi}$
-$d_{go}$
-$\kappa$
-$q"_a$
-$A_a$
-$A_{go}$
-$A_{ao}$
-$\sigma_{sb}$
-$$
+Which $T$, $\alpha$, $\varepsilon$, $\tau$, $I_b$, $LCR(\theta)$, $Q$, $d$, $\kappa$, $A$, $\sigma_{sb}$, and $V$ are temperature, absorptivity, emissivity, transmissivity, intensity, local concentration ratio, heat transfer, diameter, thermal conductivity, area, Stefan-Boltzmann constant, and velocity, respectively.. Also, subscriptions $a$, $g$, $i$, and $o$ describe absorber tube, glass cover, inner, and outer, respectively.
 
 
 ## Installation
