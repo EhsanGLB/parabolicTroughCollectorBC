@@ -19,6 +19,8 @@ $$ {T_{sky}} = 0.0522 {T_a}^{1.5} $$
 
 $$ {Q_{g}} = \alpha_g I_b \overline{\rm LCR} $$
 
+$$ {Q_{ag}} = {Q_{g}} - {Q_{go}} $$
+
 $\alpha_a$
 $\varepsilon_a$
 $\tau_a$
