@@ -3,7 +3,23 @@ This is a boundary condition for wall of parabolic trough collector written base
 
 
 ## Mathematical Relationships
+$$ {\nabla \phi} = q"_{\phi} - h_o (\phi - \phi_o) - {1 \over T} {D_T \over D_B} {\nabla \phi}$$
 
+$\alpha_a$
+$\varepsilon_a$
+$\tau_a$
+$\alpha_g$
+$\varepsilon_g$
+$\tau_g$
+$I_b$
+$LCR(\teta)$
+$\dot{Q_{a-g}}$
+$Q_{loss}$
+$d_{ai}$
+$d_{ao}$
+$d_{gi}$
+$d_{go}$
+$\kappa$
 
 
 ## Installation
