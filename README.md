@@ -9,6 +9,10 @@ $$ {{q''}_a} = \tau_g \alpha_a I_b LCR(\theta)$$
 
 $$ {Q_{ag}} = $$
 
+$$ {A_{go}} = L \pi \ d_{go}$$
+
+$$ h_{go} = {V_a}^{0.58} {d_{go}}^{-0.45}
+
 
 $\alpha_a$
 $\varepsilon_a$
