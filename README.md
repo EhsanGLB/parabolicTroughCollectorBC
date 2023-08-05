@@ -3,7 +3,7 @@ This is a boundary condition for wall of parabolic trough collector written base
 
 
 ## Mathematical Relationships
-$$ {\nabla \phi} = q"_{\phi} - h_o (\phi - \phi_o) - {1 \over T} {D_T \over D_B} {\nabla \phi}$$
+$$ {\nabla T} = {1 \over \kappa}{q''_a - {Q_{a-g} \over A_a}}$$
 
 $\alpha_a$
 $\varepsilon_a$
@@ -20,7 +20,7 @@ $d_{gi}$
 $d_{go}$
 $\kappa$
 $q''_a$
-$$
+$A_a$
 $$
 $$
 
