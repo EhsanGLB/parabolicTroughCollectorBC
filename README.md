@@ -6,7 +6,9 @@ This is a boundary condition for wall of parabolic trough collector written base
 $$ {\nabla T} = {1 \over \kappa} $$
 
 
-$\left({{q''_a} - {{Q_{a-g}} \over A_a}} \right)$
+$\left({{q''_a} - } \right)$
+
+{{Q_{a-g}} \over A_a}
 
 $\alpha_a$
 $\varepsilon_a$
