@@ -5,7 +5,7 @@ This is a boundary condition for wall of parabolic trough collector written base
 ## Mathematical Relationships
 $$ {\nabla T} = {1 \over \kappa} \left({ q_a - {Q_{ag} \over A_a} } \right) $$
 
-$$ {{q''}_a} = \tau_g \alpha_a I_b LCR(\theta)$$
+$$ {{q''}_a} = \tau_g \alpha_a I_b \ LCR(\theta)$$
 
 $$ {Q_{ag}} = {{ \sigma_{sb} A_{ao} \left( { {T_{to}}^4 - {T_{gi}}^4 }\right) } \over { {1 \over \varepsilon_a} + {d_{ao} \over d_{gi} } { {1 - \varepsilon_g} \over \varepsilon_g} } }$$
 
