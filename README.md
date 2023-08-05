@@ -17,6 +17,7 @@ $$ h_{go} = {V_a}^{0.58} \ {d_{go}}^{-0.45} $$
 
 $$ {T_{sky}} = 0.0522 {T_a}^{1.5} $$
 
+$$ {Q_{g}} = \alpha_g I_b \overline{\rm LCR} $$
 
 $\alpha_a$
 $\varepsilon_a$
