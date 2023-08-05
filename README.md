@@ -13,8 +13,7 @@ $\varepsilon_g$
 $\tau_g$
 $I_b$
 $LCR(\teta)$
-$\dot{Q_{a-g}}$
-$Q_{loss}$
+$\dot{Q}_{a-g}$
 $d_{ai}$
 $d_{ao}$
 $d_{gi}$
