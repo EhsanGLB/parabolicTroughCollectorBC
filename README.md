@@ -26,7 +26,7 @@ $d_{go}$
 $\kappa$
 ${q''}_a$
 $A_a$
-$\sigma_sb$
+$\sigma_{sb}$
 $$
 
 
