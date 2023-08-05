@@ -8,7 +8,7 @@ $$ {\nabla T} = {1 \over \kappa} $$
 
 $\left({{q''_a} - } \right)$
 
-$$ {{Q_{a-g}} \over A_a} $$
+$$ {Q_{a-g} \over A_a} $$
 
 $\alpha_a$
 $\varepsilon_a$
