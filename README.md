@@ -3,11 +3,11 @@ This is a boundary condition for wall of parabolic trough collector written base
 
 
 ## Mathematical Relationships
-$$ {\nabla T} = {1 \over \kappa} \left({{q''}_a - {Q_ag \over A_a} } \right) $$
+$$ {\nabla T} = {1 \over \kappa} \left({{q''}_a - {Q_{ag} \over A_a} } \right) $$
 
+$$ {{q''}_a} = \tau_g \alpha_a I_b LCR(\theta)$$
 
-
-
+$$ {Q_{ag}} = $$
 
 
 $\alpha_a$
@@ -24,7 +24,7 @@ $d_{ao}$
 $d_{gi}$
 $d_{go}$
 $\kappa$
-$q''_a$
+${q''}_a$
 $A_a$
 $$
 $$
